@@ -1,3 +1,8 @@
+
+#This is a blog application that built using PHP Laravel framework.
+
+===================================================================
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
