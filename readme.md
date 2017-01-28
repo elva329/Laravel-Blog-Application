@@ -5,8 +5,6 @@
 The application covers following functionalities:
 1. Register, Login & Logout
 
-file:///Users/Elva/Desktop/2017-01-28_1422.swf
-
 
 # Laravel PHP Framework
 
