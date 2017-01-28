@@ -3,6 +3,11 @@
 
 ===================================================================
 
+<video>
+      <source id="swf" src="file:///Users/Elva/Desktop/2017-01-28_1422.swf" type="video/swf">
+    </video>
+    
+    
 
 # Laravel PHP Framework
 
