@@ -2,10 +2,6 @@
 #This is a blog application that built using PHP Laravel framework.
 
 ===================================================================
-
-<video>
-      <source id="swf" src="file:///Users/Elva/Desktop/2017-01-28_1422.swf" type="video/swf">
-    </video>
     
     
 
