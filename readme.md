@@ -2,12 +2,11 @@
 #This is a blog application that built using PHP Laravel framework.
 
 ===================================================================
-    <!DOCTYPE HTML>
 <html>
 <body>
 
 <video src="Laravel-Blog-Application/2017-01-28_1422.swf" controls="controls">
-
+demo
 </video>
 
 </body>
