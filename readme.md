@@ -5,7 +5,7 @@
 The application covers following functionalities:
 1. Register, Login & Logout
 
-    <script type="text/javascript" src="file:///Users/Elva/Desktop/2017-01-28_1422.swf"></script>
+
 
 
 # Laravel PHP Framework
