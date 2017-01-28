@@ -2,10 +2,6 @@
 #This is a blog application that built using PHP Laravel framework.
 
 ===================================================================
-The application covers following functionalities:
-1. Register, Login & Logout
-
-
 
 
 # Laravel PHP Framework
