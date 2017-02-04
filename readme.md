@@ -5,7 +5,7 @@
 
 
 
-![Aaron Swartz](https://github.com/elva329/Laravel-Blog-Application/raw/master/Res/2017-02-04_2030.gif)
+![Aaron Swartz](https://github.com/elva329/Laravel-Blog-Application/raw/2017-02-04_2030.gif)
 
 
 # Laravel PHP Framework
