@@ -2,6 +2,10 @@
 #This is a blog application that built using PHP Laravel framework.
 
 ===================================================================
+It covers the following functionalities:
+1) Login & Logout
+
+![Aaron Swartz](https://github.com/elva329/Laravel-Blog-Application/raw/master/screenshots/Login%20%26%20Logout.gif)
 
 
 # Laravel PHP Framework
