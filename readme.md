@@ -7,6 +7,11 @@ It covers the following functionalities:
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-Blog-Application/raw/master/screenshots/Login%20%26%20Logout.gif)
 
+# 2) Create POST
+
+![Aaron Swartz](https://github.com/elva329/Laravel-Blog-Application/raw/master/screenshots/create_post.gif)
+
+
 
 # Laravel PHP Framework
 
