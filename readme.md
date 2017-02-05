@@ -22,7 +22,7 @@ It covers the following functionalities:
 
 ## CRUD Tag
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/CRUD_tags.gif)
 
 ## Security Vulnerabilities
 
