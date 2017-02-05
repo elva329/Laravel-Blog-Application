@@ -26,8 +26,4 @@ It covers the following functionalities:
 
 ## CRUD Comment
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/CRUD_comment.gif)
