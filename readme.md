@@ -1,5 +1,5 @@
 
-This is a blog application that built using PHP Laravel framework.
+# This is a blog application that built using PHP Laravel framework.
 
 It covers the following major functionalities:
 
@@ -10,7 +10,6 @@ It covers the following major functionalities:
 # Create POST
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-Blog-Application/raw/master/screenshots/create_post.gif)
-
 
 # Update and Delete POST
 
