@@ -1,7 +1,7 @@
 
-#This is a blog application that built using PHP Laravel framework.
+This is a blog application that built using PHP Laravel framework.
 
-It covers the following functionalities:
+It covers the following major functionalities:
 
 # Login & Logout
 
@@ -16,14 +16,14 @@ It covers the following functionalities:
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/Update%20%26%20Delete%20Post.gif)
 
-## Create Category
+# Create Category
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/create_category.gif)
 
-## CRUD Tag
+# CRUD Tag
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/CRUD_tags.gif)
 
-## CRUD Comment
+# CRUD Comment
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/CRUD_comment.gif)
