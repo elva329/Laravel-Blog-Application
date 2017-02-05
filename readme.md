@@ -16,9 +16,9 @@ It covers the following functionalities:
 
 ![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/Update%20%26%20Delete%20Post.gif)
 
-## CRUD Category
+## Create Category
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+![Aaron Swartz](https://github.com/elva329/Laravel-BlogApplication/raw/master/screenshots/create_category.gif)
 
 ## CRUD Tag
 
