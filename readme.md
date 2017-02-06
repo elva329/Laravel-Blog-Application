@@ -1,5 +1,7 @@
 
-# This is a blog application that built using PHP Laravel framework.
+# Laravel-BlogApplication
+
+This is a blog application that built using PHP Laravel framework.
 
 It covers the following major functionalities:
 
